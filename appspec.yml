@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: C:\Users\LUCAS\Desktop\aplicacaoaws
+  - source: C:\Users\LUCAS\Desktop\app\build
     destination: /home/ec2-user/app
 hooks:
   BeforeInstall:
